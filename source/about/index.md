@@ -24,28 +24,21 @@ a img:hover {
 <div align="center">
   <img src="/images/avatar.webp" alt="avatar" width="120" style="border-radius:50%;margin-bottom:1em;" />
   <h1>Sanxian</h1>
-  <p>天生的BUG製造機</p>
+  <p>喜歡接觸新知＆技術</p>
   <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:0.5em;">
-    <a href="https://x.com/itou_souta15" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="https://github.com/itousouta15" target="_blank">
+    <a href="https://github.com/sanxian-4348" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.threads.net/@itou.souta15" target="_blank">
+    <a href="https://www.threads.com/@11_sanxian" target="_blank">
       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
     </a>
-    <a href="https://discord.gg/uAX6h9VmA4" target="_blank">
+    <a href="https://discord.gg/PMEkUBtC" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://instagram.com/itousouta15" target="_blank">
+    <a href="https://www.instagram.com/11_sanxian/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </div>
-  <picture>
-    <source srcset="/images/github-user-contributiond.svg" media="(prefers-color-scheme: dark)">
-    <img src="/images/github-user-contribution.svg" alt="GitHub 貢獻圖" style="max-width:100%;margin:1em auto;display:block;" />
-  </picture>
 </div>
 
 </br>

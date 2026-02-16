@@ -32,5 +32,17 @@ Leave a comment on this page with the following format:
       <div class="friend-desc">可愛小男娘</div>
     </div>
   </div>
+  <div class="friend-item-wrap">
+    <a href="https://blog.itousouta15.tw/" rel="external nofollow noopener noreferrer" target="_blank"></a>
+    <div class="friend-icon-wrap">
+      <div class="friend-icon">
+        <img data-src="https://blog.itousouta15.tw/avatar/avatar.webp" data-sizes="auto" alt="伊藤蒼太" class="lazyautosizes lazyloaded" sizes="70px" src="https://blog.itousouta15.tw/avatar/avatar.webp">
+      </div>
+    </div>
+    <div class="friend-info-wrap">
+      <div class="friend-name">伊藤蒼太</div>
+      <div class="friend-desc">中電會長</div>
+    </div>
+  </div>
 </div>
 </div>

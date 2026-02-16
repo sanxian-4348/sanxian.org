@@ -1,6 +1,6 @@
 ---
 title: about
-date: 2025-07-28 09:58:09
+date: 2026-02-16 04:58:09
 ---
 <!-- more -->
 <style>
@@ -23,107 +23,60 @@ a img:hover {
 <br>
 <div align="center">
   <img src="/images/avatar.webp" alt="avatar" width="120" style="border-radius:50%;margin-bottom:1em;" />  
-  <h1>Itou Souta</h1>  
-  <p>A Natural Bug Generator</p>  
+  <h1>Sanxian</h1>  
+  <p>Enjoy exploring new knowledge and technology</p>  
   <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:0.5em;">
-    <a href="https://x.com/itou_souta15" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="https://github.com/itousouta15" target="_blank">
+    <a href="https://github.com/sanxian-4348" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.threads.net/@itou.souta15" target="_blank">
+    <a href="https://www.threads.com/@11_sanxian" target="_blank">
       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
     </a>
-    <a href="https://discord.gg/uAX6h9VmA4" target="_blank">
+    <a href="https://discord.gg/PMEkUBtC" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://instagram.com/itousouta15" target="_blank">
+    <a href="https://www.instagram.com/11_sanxian/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </div>
-  <picture>
-    <source srcset="/images/github-user-contributiond.svg" media="(prefers-color-scheme: dark)">
-    <img src="/images/github-user-contribution.svg" alt="GitHub Contribution Graph" style="max-width:100%;margin:1em auto;display:block;" />
-  </picture>
 </div>
 
 <br>
 
 ---
 
-# `cout<<"hello! world";`
-## Hi, I'm 郭家睿
-> *"The world goes quiet when I write code."*
+# `Console.WriteLine("Hello World!")`
+## Sanxian (三線)
+**Senior High School Student | Taiwan, Chiayi**
 
-I'm a **high school student from Taiwan** passionate about **C++**, **web development**, and **cybersecurity**. I'm actively involved in tech communities and always exploring the intersection of code, security, and creativity.
+## Education
+**National Chiayi Industrial Vocational High School**
+- Grade 12 (Senior)
+- 2024 - 2026
 
+## Competitions & Activities
+- **National Senior High School Student Industrial Skills Competition** — 05 Computer Software Design
+- **55th National Skills Competition (Southern Region)** — Web Technologies (Youth Division)
+- **SITCON 2025** — Attendee
+- **Senior Player 2025** — Participant
+- **SCIST × SCAICT "Lightning Quad-Link" 2026** — Activities Team
+- **JNIC (Chia-Nan Joint Information Exploration Camp) 2024** — Participant
+- **AIS3 CLUB 2023 (Cybersecurity Experience Camp - Yunlin/Chiayi)** — Participant
 
-## Bio
+## Skills & Certifications
+- **Level C Technician Certificate:** Web Design
+- **Level C Technician Certificate:** Industrial Electronics
+- **Level C Technician Certificate:** Computer Hardware Assembly
+- **Level B Technician Certificate:** Computer Hardware Assembly
+- **Level B Technician Certificate:** Digital Electronics
 
-**Taichung Municipal Dali Senior High School**
-- 2025 - 2027
-- High School
-
-## Contest & Competitions
-
-- **Scrapyard Taiwan Hackathon** — 9th Place
-- **AIS3 Pre-exam 2025** — NO.67
-- **Taipei City Microservices Hackathon** — Preliminary Round
-- **11401 FhCTF** — NO.1
-
-- **2025 National High School Medical Technology Competition** — In Progress
-
-
-## Teaching & Mentoring
-
-- **DLHIT** — Web Fundamentals Course Instructor
-  - Academic Year 115 First Semester
-
-
-## Courses & Activities
-
-- **Feng Chia University** — Smart Electronic Technology - Smart Chip and Sensor Applications
-- **Feng Chia University** — As Long As You're Connected ~ You Can Also Do Simple AI Control and Design
-- **AIS3 2025** — Software, Web and ToI Security Course
-- **SCAICT 2025** — "Overcoming Information Barriers" Course
-- **AIS3 Club 2025**
-- **Faust Game Jam 2025**
-- **DayDream** — National Youth Game Creation Marathon
-- **2025 Taiwan Medical Technology Exhibition**
-- **SITCON 2025**
-- **2025 Taipei City Microservices Hackathon**
-- **SCIST x SCAICT 2026 Winter Camp**
-- **SITCON 2026**
-- **2026 g0v summit**
-- **2026 TWNOG Taiwan Network Operations Meeting**
-
-# Community & Organizations
-
-### Leadership Positions
-- **5th SCAICT** — President
-- **SCIST x SCAICT 2026 Winter Camp** — Vice Chief Organizer
-- **2nd DLHIT** — Team Captain
-- **Dali Senior High School C# and Unity Game Design Camp** — Chief Organizer
-
-### Community Involvement
-- **SCIST x SCAICT 2026 Winter Camp** — Editorial Team Leader / IT Division
-- **3rd THJCC** — Network Administrator
-- **2nd SCINT** — Art and Design
-- **2026 TWNOG** — Design Division
-- **2026 g0v Summit** — Venue Operations
-
-
-## Tech Toolbox
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,git,github,vscode,docker,unity,godot,linux)](https://skillicons.dev)
-
+## Community Involvement
+- **SCIST x SCAICT 2026 Joint Winter Camp** — Activities Team
+- **2026 g0v Summit** — Venue Operations Team
 
 ## Connect
 
-- Blog: [GitHub Pages](https://blog.itousouta15.tw)
-- Instagram: [itou.souta15](https://www.instagram.com/itou.souta15)
-- Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)
-- X (Twitter): [@itou_souta15](https://x.com/itou_souta15)
-- Discord: [Join Server](https://discord.gg/uAX6h9VmA4)
-- GitHub: [itousouta15](https://github.com/itousouta15)
+- Instagram：[11_sanxan](https://www.instagram.com/11_sanxian/)
+- Threads：[@11_sanxan](https://www.threads.com/@11_sanxian)
+- Discord：[ＭＹ ＳＥＲＶＥＲ](https://discord.gg/PMEkUBtC)
+- GitHub：[Sanxian-4348](https://github.com/sanxian-4348)

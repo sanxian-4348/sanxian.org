@@ -13,7 +13,7 @@ timezone: 'Asia/Taipei'
 
 # _config.yml
 url: https://sanxian-4348.github.io/sanxian.org/
-root: /sanxian.org/                       
+root: /                      
 permalink: :year/:month/:day/:urlname/
 permalink_defaults:
 pretty_urls:

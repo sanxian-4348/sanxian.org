@@ -3,6 +3,10 @@ title: ＳＣＩＳＴ×ＳＣＡＩＣＴ 閃電四聯編 2026 - 活動組
 date: 2025-08-27 14:32:32
 tags:
   - 2026寒訓
-cover: /images/Hexo/hexo_github.webp
-urlname: Hexo
+cover: /images/SCISTxSCAICT 2026.webp
+urlname: 閃電四聯編
 ---
+從活動前幾個月開始籌辦活動到五天營隊結束後兩個禮拜與不久才認識的朋友故事還沒結束
+
+## 閃電四聯編 2026 工人招募
+我覺得，故事要從這邊開始敘述才好

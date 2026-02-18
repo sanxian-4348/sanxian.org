@@ -9,7 +9,11 @@ cover: /images/SCISTxSCAICT 2026.webp
 urlname: 閃電四聯編
 ---
 
+
 從活動前幾個月開始籌辦活動到五天營隊結束後兩個禮拜與不久才認識的朋友故事還沒結束
+
+
+
 
 
 >

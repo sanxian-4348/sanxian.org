@@ -32,7 +32,7 @@ a img:hover {
     <a href="https://www.threads.com/@11_sanxian" target="_blank">
       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
     </a>
-    <a href="https://discord.gg/PMEkUBtC" target="_blank">
+    <a href="https://discord.gg/SzA7nju8KT" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://www.instagram.com/11_sanxian/" target="_blank">
@@ -79,5 +79,5 @@ a img:hover {
 
 - Instagram：[11_sanxan](https://www.instagram.com/11_sanxian/)
 - Threads：[@11_sanxan](https://www.threads.com/@11_sanxian)
-- Discord：[ＭＹ ＳＥＲＶＥＲ](https://discord.gg/PMEkUBtC)
+- Discord：[ＭＹ ＳＥＲＶＥＲ](https://discord.gg/SzA7nju8KT)
 - GitHub：[Sanxian-4348](https://github.com/sanxian-4348)

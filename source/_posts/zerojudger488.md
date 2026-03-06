@@ -1,6 +1,6 @@
 ---
 title: zerojudge r488彗星撞擊
-date: 2025-01-18 14:00:00
+date: 2025-01-19 14:00:00
 tags:
   - 程式解題
 cover: /images/zerojudge.webp

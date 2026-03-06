@@ -1,5 +1,5 @@
 ---
-title: zerojudge解題
+title: zerojudge a020身份證驗證
 date: 2025-01-18 14:00:00
 tags:
   - 程式解題

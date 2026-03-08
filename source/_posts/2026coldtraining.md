@@ -9,14 +9,9 @@ cover: /images/SCISTxSCAICT 2026.webp
 urlname: 閃電四聯編
 ---
 
+## 概述
 
+## 結尾
 
-
-## 工人招募&分工＆開工
-
-## Day0 
-
-## 期間 
-
-## 結束慶功宴 
+## 合照
 

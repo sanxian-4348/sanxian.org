@@ -18,7 +18,7 @@ urlname: 閃電四聯編
 
 ## 圖片
 #### 合照
-![活動合照](/images/SCISTxSCAICT 2026.webp)
+![大合照](/images/groupphoto.webp)
 ![kahoot主持](/images/kahoot.webp)
 ![慶功宴](/images/celebrating.jpeg)
 

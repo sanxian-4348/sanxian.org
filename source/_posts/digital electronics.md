@@ -1,5 +1,5 @@
 ---
-title: digital electronics
+title: 數位電子
 date: 2026-01-28 13:00:00
 tags:
   - 乙級
@@ -8,5 +8,5 @@ tags:
 cover: /images/b.jpg
 urlname: digital electronics
 ---
-## digital electronics
+## 數位電子 
 

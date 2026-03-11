@@ -10,6 +10,10 @@ cover: /images/computer hardware.webp
 urlname: Gomoku
 ---
 ## 電腦硬體裝修
+### 前言
+
 ### Server
 
 ### 介面卡
+
+### 實作照片

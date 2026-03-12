@@ -9,3 +9,8 @@ cover: /images/Gomoku.png
 urlname: Gomoku
 ---
 ## C# 五子棋遊戲 Gomoku
+### 前言
+
+### 程式碼介紹
+
+### 感想

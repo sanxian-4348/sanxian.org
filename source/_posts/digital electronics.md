@@ -120,7 +120,6 @@ always @(posedge div_f[13])
 			end
 	endcase
 endmodule
- 
 ```
 
 ### 感想

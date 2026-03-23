@@ -42,7 +42,7 @@ urlname: zeerojuge
 
 ---
 
-### 實作程式碼C++
+### 程式C++
 
 ```cpp
 #include <iostream>

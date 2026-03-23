@@ -52,19 +52,17 @@ urlname: zeerojuge
 using namespace std;
 
 int main() {
-    // 加速輸入輸出
+    
     ios::sync_with_stdio(false);
     cin.tie(0);
 
     int R, C, D, K;
     if (!(cin >> R >> C >> D >> K)) return 0;
 
-    // mapp 存高度，dinosaur 存恐龍數
-    // 使用 vector 避免大陣列導致程式崩潰
+    
     vector<vector<int>> mapp(C, vector<int>(R, D));
     vector<vector<int>> dinosaur(C, vector<int>(R, 0));
 
-    // 1. 初始化恐龍位置
     for (int i = 0; i < K; i++) {
         int r, c;
         cin >> r >> c;
@@ -77,23 +75,21 @@ int main() {
         int a, b, s, d;
         cin >> a >> b >> s >> d;
 
-        int t = 0; // 紀錄範圍內清醒恐龍數量
+        int t = 0; 
         int r_start = b - s / 2, r_end = b + s / 2;
         int c_start = a - s / 2, c_end = a + s / 2;
 
-        // 階段一：檢查並砸暈恐龍
         for (int i = r_start; i <= r_end; i++) {
             for (int j = c_start; j <= c_end; j++) {
                 if (i >= 0 && i < C && j >= 0 && j < R) {
                     if (dinosaur[i][j] > 0) {
                         t += dinosaur[i][j];
-                        dinosaur[i][j] = 0; // 恐龍被砸暈
+                        dinosaur[i][j] = 0; 
                     }
                 }
             }
         }
 
-        // 階段二：若範圍內原本沒恐龍，地形下陷
         if (t == 0) {
             for (int i = r_start; i <= r_end; i++) {
                 for (int j = c_start; j <= c_end; j++) {
@@ -105,7 +101,6 @@ int main() {
         }
     }
 
-    // 2. 統計最終結果
     long long maxH = -2e18, minH = 2e18, totalDino = 0;
     for (int i = 0; i < C; i++) {
         for (int j = 0; j < R; j++) {

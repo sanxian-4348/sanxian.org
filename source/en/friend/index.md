@@ -19,7 +19,7 @@ Leave a comment on this page with the following format:
 
 ## friends
 ## 夥伴們
-<div class="friend-wrap">
+< class="friend-wrap">
   <div class="friend-item-wrap">
     <a href="https://casperlin100w.github.io/" rel="external nofollow noopener noreferrer" target="_blank"></a>
     <div class="friend-icon-wrap">
@@ -68,5 +68,16 @@ Leave a comment on this page with the following format:
       <div class="friend-desc">帥哥電神</div>
     </div>
   </div>
-</div>
+  <div class="friend-item-wrap">
+    <a href="https://blog.gonets.top/" rel="external nofollow noopener noreferrer" target="_blank"></a>
+    <div class="friend-icon-wrap">
+      <div class="friend-icon">
+        <img data-src="https://blog.gonets.top/media/picture/Avatar.png" data-sizes="auto" alt="電神" class="lazyautosizes lazyloaded" sizes="70px" src="https://blog.gonets.top/media/picture/Avatar.png">
+      </div>
+    </div>
+    <div class="friend-info-wrap">
+      <div class="friend-name">Kaiyasi</div>
+      <div class="friend-desc">帥哥電神</div>
+    </div>
+  </div>
 </div>

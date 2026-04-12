@@ -43,7 +43,7 @@ urlname: Gomoku
 
 需使用 **Arduino IDE** 進行 HC-05 藍牙模組的 AT Command 設定。以下為常用指令：
 
-```cpp
+```
 AT             // 進入 AT 模式
 AT+NAME=BTxx   // 更改藍牙模組名稱，將 BTxx 替換為欲設定的名稱
 AT+PSWD=1234   // 更改藍牙模組密碼，將 1234 替換為欲設定的密碼

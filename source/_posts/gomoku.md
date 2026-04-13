@@ -10,7 +10,7 @@ urlname: Gomoku
 ---
 ## Gomoku C#
 ### 前言
-k
+
 ### 程式碼介紹
 
 ### 感想

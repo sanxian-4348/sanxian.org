@@ -1,5 +1,5 @@
 ---
-title: Gomoku C#
+title: Gomoku C# 
 date: 2026-01-28 13:00:00
 tags:
   - C#
@@ -10,7 +10,7 @@ urlname: Gomoku
 ---
 ## Gomoku C#
 ### 前言
-
+k
 ### 程式碼介紹
 
 ### 感想

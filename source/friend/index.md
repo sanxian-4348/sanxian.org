@@ -65,7 +65,7 @@ comments: true
     </div>
     <div class="friend-info-wrap">
       <div class="friend-name">Spencerku</div>
-      <div class="friend-desc">帥哥電神</div>
+      <div class="friend-desc">帥哥學長</div>
     </div>
   </div>
   <div class="friend-item-wrap">
